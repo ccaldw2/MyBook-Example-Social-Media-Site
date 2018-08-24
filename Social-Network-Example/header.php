@@ -33,6 +33,6 @@
              "<li><a href='signup.php'>Sign Up</a></li>"             .
              "<li><a href='login.php'>Log In</a></li></ul<br />"     .
              "<span class='info'>&#8658; you must be logged in to"   . 
-             "view this page.</span><br /><br />");               
+             " view this page.</span><br /><br />");               
     }
 ?>
